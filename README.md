@@ -22,4 +22,4 @@
 - [<img align="left" alt="MineHost" width="26px" src="https://avatars.githubusercontent.com/u/69081487?s=200&v=4" /> MineHost.pl](https://minehost.pl) - hosting of minecraft servers and VPS. If you are lucky enough, you can see me on live chat or in tickets!<br><br>
 - [<img align="left" alt="mineCodes" width="26px" src="https://avatars.githubusercontent.com/u/79703096?s=200&v=4" /> mineCodes.pl](https://minecodes.pl) - Are you looking for a fancy plugin? Or want a custom one, but you can't code? We've got you covered! Check [github page](https://github.com/mineCodesDevelopment) or join [Discord](https://discord.gg/rWurHne6qF) to see my contribution.
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikox3003)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikox3003&show-icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
