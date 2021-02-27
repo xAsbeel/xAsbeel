@@ -7,12 +7,12 @@
 - 🎮 Gamer (kind of)
 
 ### My languages and tools:
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="JetBrains" width="26px" src="https://simpleicons.org/icons/jetbrains.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Sublime Text 3" width="26px" src="https://simpleicons.org/icons/sublimetext.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Java" width="32px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="JetBrains" width="32px" src="https://simpleicons.org/icons/jetbrains.svg" />
+<img align="left" alt="MySQL" width="32px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Sublime Text 3" width="32px" src="https://simpleicons.org/icons/sublimetext.svg" />
+<img align="left" alt="GitHub" width="32px" src="https://simpleicons.org/icons/github.svg" />
 <br>
 
 ### Contact me:
