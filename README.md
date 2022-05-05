@@ -2,7 +2,7 @@
 
 ### About me:
 - 👨‍🎓 IT student
-- 📅 16 years old
+- 📅 17 years old
 - 🖥️ Learning programmer
 - 🎮 Gamer (kind of)
 
