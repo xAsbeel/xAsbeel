@@ -1,18 +1,18 @@
 ```bash
-╭─nikox3003@github.com ~  
+╭─xasbeel@github.com ~  
 ╰─➤  whoami
 
-                  |                 Nikox3003 ~ User Info
+                  |                 x.Asbeel ~ User Info
                  ||               
-               |||                  Name: Nikodem
-             ||||    ||             Languages: Java, Python, JS, SQL
-           ||||| ||||               Age: 18
+               |||                  
+             ||||    ||             Languages: Java, Python, JS (nodejs), SQL
+           ||||| ||||               Age: 19
           ||||  |||                 Specializations: programming, system admin
          ||||  |||                  Tools: JetBrains IDEs, Visual Studio Code, git
          |||    |||                  
           |||    |||                Contact:
-            ||    ||                  - Discord: Nikox ⚡#6931
-              |   |                   - Instagram: Nikox3003
+            ||    ||                  - Discord: x.asbeel
+              |   |                   - Instagram: x.asbeel
    ####               #    ##        
     ################       ##     
        #                   ##     
@@ -27,9 +27,9 @@
 
 
 
-╭─nikox3003@github.com ~  
-╰─➤  stats Nikox3003
+╭─xasbeel@github.com ~  
+╰─➤  stats xAsbeel
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikox3003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikox3003&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikox&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAsbeel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAsbeel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xAsbeel&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
